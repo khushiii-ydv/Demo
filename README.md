@@ -1,4 +1,4 @@
 # Demo
 This is my First Git Repository.
 <br>
-Author - Khushi Yadav
+Author - Khushi.S. Yadav
